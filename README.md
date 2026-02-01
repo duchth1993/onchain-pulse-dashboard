@@ -2,10 +2,7 @@
 
 > **Real-time dashboard for trending activity across Base mini apps**  
 > Discover what’s hot on Base right now — from RevU to Farville — with live metrics, user growth, and transaction volume.
-
-![Onchain Pulse Preview]
-
-
+Demo Live: https://v0-onchain-pulse-dashboard.vercel.app/
 ## 🚀 Why Onchain Pulse?
 
 Base is evolving into an **everything app** with dozens of mini apps (RevU, Noice, Farville, etc.). But users lack a **central place to see what’s trending**.  
